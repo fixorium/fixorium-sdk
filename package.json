@@ -1,1 +1,9 @@
+{
+  "name": "@fixorium/sdk",
+  "version": "0.1.0",
+  "main": "src/client.js",
+  "dependencies": {
+    "@cosmjs/stargate": "^0.31.1"
+  }
+}
 
